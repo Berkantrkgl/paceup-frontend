@@ -15,7 +15,7 @@
           "NSAllowsArbitraryLoads": true
         }
       },
-      "bundleIdentifier": "com.anonymous.PaceUp"
+      "bundleIdentifier": "com.dayzerosoft.PaceUp"
     },
     "android": {
       "adaptiveIcon": {
